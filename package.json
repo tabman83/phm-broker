@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": "https://github.com/tabman83/phm-broker.git"
+  "repository": "https://github.com/tabman83/phm-broker.git",
   "author": "Antonino Parisi <tabman83@gmail.com>",
   "license" : "SEE LICENSE IN LICENSE",
   "dependencies": {
