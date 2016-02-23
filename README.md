@@ -19,5 +19,12 @@ $ mosca adduser myuser mypass --credentials ./credentials.json \
 $ mosca rmuser myuser --credentials ./credentials.json
 ```
 
+## Prerequisites
+
+Install node-gyp build tools:
+```
+sudo apt-get install node-gyp
+```
+
 ## Notes
 Loads protobuf definitions from https://github.com/tabman83/phm-messages.git
