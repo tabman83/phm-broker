@@ -1,0 +1,19 @@
+{
+  "name": "phm-broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/tabman83/phm-broker.git"
+  "author": "Antonino Parisi <tabman83@gmail.com>",
+  "license" : "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bunyan": "^1.7.0",
+    "mosca": "^1.1.0",
+    "protobufjs": "^5.0.1",
+    "request": "^2.69.0"
+  }
+}
