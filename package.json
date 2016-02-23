@@ -1,7 +1,7 @@
 {
   "name": "phm-broker",
   "version": "1.0.0",
-  "description": "",
+  "description": "MQTT broker for personal-heating-manager",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
