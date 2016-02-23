@@ -26,5 +26,10 @@ Install node-gyp build tools:
 sudo apt-get install node-gyp
 ```
 
+On linux you may need to install mosca with admin privileges:
+```
+sudo npm install mosca
+```
+
 ## Notes
 Loads protobuf definitions from https://github.com/tabman83/phm-messages.git
